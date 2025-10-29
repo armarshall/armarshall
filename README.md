@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🎓 CS @ Loyola University Maryland <br><br>💻 I’m a web developer who enjoys building smooth, responsive interfaces<br><br>⚙️ Expanding into full-stack development with Node.js, Express, and MongoDB<br><br>🚀 I like getting involved with projects and products that make an impact and help me grow as a developer<br><br>💼 <a href="https://www.linkedin.com/in/aidan-r-marshall">LinkedIn</a> | ✉️ <a href="mailto:armarsh1023@gmail.com">Send me an email</a>
+<p align="left">🎓 CS @ Loyola University Maryland <br><br>💻 I’m a developer passionate about building performant, well-structured web applications<br><br>⚙️ Expanding into full-stack development with Node.js, Express, and MongoDB<br><br>🚀 I like getting involved with projects and products that make an impact and help me grow as a developer<br><br>💼 <a href="https://www.linkedin.com/in/aidan-r-marshall">LinkedIn</a> | ✉️ <a href="mailto:armarsh1023@gmail.com">Send me an email</a>
 </p>
 
 ###
